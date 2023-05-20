@@ -2,7 +2,6 @@
  
 site_name: HOA SCC
 
-
 theme:
     
   name: material
@@ -25,7 +24,7 @@ theme:
 
   palette:
 
-    primary: teal
+    primary: purple
     accent: indigo
  
 # Repository
@@ -34,7 +33,6 @@ repo_url: https://github.com/JohnTelford/hoa_scc.git
 
 # nav tree
 nav: 
-#
   - Home: hoa_overview.md
     # - Welcome: index.md
       #  - Hype Curve: hype_curve.md

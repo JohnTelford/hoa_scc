@@ -30,7 +30,7 @@ We are unit 43. This arial view shows that units 43 and 44 do not have the same 
 ▲ North
 
 <figure markdown>
-  ![Limited Common Area Unites 43 and 44](/img/APC_1020.pngimg/Limited_Common_Area_Unite_43_44.png)
+  ![Limited Common Area Unites 43 and 44](/img/Limited_Common_Area_Unite_43_44.png)
 <figcaption>Limited Common Area Unites 43 and 44</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ We asked the selling realtor to remove these items in the arial photo and more i
 We want this fence dividing our **Entitled Percentage Ownership In The General Common Elements** removed.
 
 <figure markdown>
-  ![Remove Dividing Fence](APC_1022.png)
+  ![Remove Dividing Fence](/img/APC_1022.png)
 <figcaption>Remove Dividing Fence</figcaption>
 </figure>
 
