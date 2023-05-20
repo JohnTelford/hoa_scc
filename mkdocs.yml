@@ -1,6 +1,6 @@
 
  
-site_name: HOA SCC
+site_name: HOA SCC 01
 
 theme:
     
@@ -33,7 +33,7 @@ repo_url: https://github.com/JohnTelford/hoa_scc.git
 
 # nav tree
 nav: 
-  - Home: hoa_overview.md
+  - HOA: hoa_overview.md
     # - Welcome: index.md
       #  - Hype Curve: hype_curve.md
     # - HOA: 
