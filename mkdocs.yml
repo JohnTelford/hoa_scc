@@ -34,6 +34,7 @@ repo_url: https://github.com/JohnTelford/hoa_scc.git
 # nav tree
 nav: 
   - HOA: hoa_overview.md
+  
     # - Welcome: index.md
       #  - Hype Curve: hype_curve.md
     # - HOA: 
