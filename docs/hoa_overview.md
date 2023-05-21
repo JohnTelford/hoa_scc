@@ -15,7 +15,9 @@ I think this may sum up what we have been trying to communicate to the HOA and K
 
 >Lawyers Title company supplied links to the all Townhome Village @ Cedar Hills Washington County records 
 
-The Washington County record CCR BOOK 1060, PAGE 566 specifies unit 43 and unit 44 have the same amount of Interest in General Common Elements.  The Washington County record CCR BOOK 1060, PAGE 566-571 are at the end of this document.
+The Washington County record CCR BOOK 1060, PAGE 566 specifies unit 43 and unit 44 have the same amount of Interest in General Common Elements.  
+
+>The Washington County record CCR BOOK 1060, PAGE 566-571 are at the end of this document.
 
 
 **Section 3.3 Unit Designation** table, page 569, shows units 43 and 44 have 1,252 sq.ft of floor space and with 1.8765 Percentage of Interest in General Common Elements. That equals 1,252 X 1.8765 = 2,350 sq.ft ownership in the General Common area. My measurements agree with this number.
@@ -23,7 +25,16 @@ The Washington County record CCR BOOK 1060, PAGE 566 specifies unit 43 and unit 
 **General Common Elements** page 570 states:
 >Each unit shall be **Entitled To Percentage Ownership In The General Common Elements** as set forth above in Section 3.3 and shall be liable for the general common expenses in the same proportion.
 
-We are unit 43. This arial view shows that units 43 and 44 do not have the same amount of Interest in General Common Elements. The HOA and Kappes-Miller for the last 3 years have maintained the that the 40% of our backyard outlined in yellow is General Common Elements that we are not   allow to use
+We are unit 43. 
+
+<figure markdown>
+  ![Unites 43](/img/map.png)
+<figcaption>Unit 43 Map</figcaption>
+</figure>
+
+<div style="page-break-after: always"></div>
+
+This arial view shows that units 43 and 44 do not have the same amount of Interest in General Common Elements. The HOA and Kappes-Miller for the last 3 years have maintained the that the 40% of our backyard outlined in yellow is General Common Elements that we are not   allow to use
 
 <div style="page-break-after: always"></div>
 
@@ -120,27 +131,27 @@ We will then be conforming to the uniformity of Townhome Village style.
 
 <!-- <div style="page-break-after: always"></div> -->
 
-![CRC Ref1](/img/CCR Book 1060, Page 566 (dragged).png)
+![CRC Ref1](/img/CCR Book 1060, Notice.png)
 
 <div style="page-break-after: always"></div>
 
-![CRC Ref2](/img/CCR Book 1060, Page 566 (dragged) 2.png)
+![CRC Ref2](/img/CCR Book 1060, Page 566.png)
 
 <div style="page-break-after: always"></div>
 
-![CRC Ref3](/img/CCR Book 1060, Page 566 (dragged) 3.png)
+![CRC Ref3](/img/CCR Book 1060, Page 567.png)
 
 <div style="page-break-after: always"></div>
 
-![CRC Ref4](/img/CCR Book 1060, Page 566 (dragged) 4.png)
+![CRC Ref4](/img/CCR Book 1060, Page 568.png)
 
 <div style="page-break-after: always"></div>
 
-![CRC Ref5](/img/CCR Book 1060, Page 566 (dragged) 5.png)
+![CRC Ref5](/img/CCR Book 1060, Page 569.png)
 
 <div style="page-break-after: always"></div>
 
-![CRC Ref6](/img/CCR Book 1060, Page 566 (dragged) 6.png)
+![CRC Ref6](/img/CCR Book 1060, Page 570.png)
 
 <div style="page-break-after: always"></div>
 
