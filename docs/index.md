@@ -4,6 +4,6 @@
     
 # HOA
 
-[Overview](hoa_overview)
+Click here for an [Overview](hoa_overview)
 
 
