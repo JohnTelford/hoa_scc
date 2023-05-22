@@ -28,7 +28,7 @@ The Washington County record CCR BOOK 1060, PAGE 566 specifies unit 43 and unit 
 We are unit 43. 
 
 <figure markdown>
-  ![Unites 43](/img/map.png)
+  ![Unite 43](/img/Map.png)
 <figcaption>Unit 43 Map</figcaption>
 </figure>
 
